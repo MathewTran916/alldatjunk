@@ -16,7 +16,7 @@ export default function Home() {
           {/* Background Image */}
           <div className="absolute inset-0 z-0">
             <Image
-              src="/images/design-mode/Trailer%20with%20truck.PNG(2).png"
+              src="/images/design-mode/trailer-with-truck-2.png"
               alt="All Dat Junk truck and trailer"
               fill
               className="object-cover"
@@ -87,7 +87,7 @@ export default function Home() {
               <Card className="overflow-hidden transition-shadow hover:shadow-lg">
                 <div className="relative aspect-video">
                   <Image
-                    src="/images/design-mode/before%201.PNG.png"
+                    src="/images/design-mode/before-1.png"
                     alt="Cluttered garage full of junk"
                     fill
                     className="object-cover"
@@ -110,7 +110,7 @@ export default function Home() {
               <Card className="overflow-hidden transition-shadow hover:shadow-lg">
                 <div className="relative aspect-video">
                   <Image
-                    src="/images/design-mode/before%202.PNG.png"
+                    src="/images/design-mode/before-2.png"
                     alt="Construction debris and materials scattered"
                     fill
                     className="object-cover"
@@ -198,7 +198,7 @@ export default function Home() {
                 <div className="grid grid-cols-2 gap-1">
                   <div className="relative aspect-video">
                     <Image
-                      src="/images/design-mode/before%202.PNG.png"
+                      src="/images/design-mode/before-2.png"
                       alt="Before - Construction debris scattered everywhere"
                       fill
                       className="object-cover"
@@ -209,7 +209,7 @@ export default function Home() {
                   </div>
                   <div className="relative aspect-video">
                     <Image
-                      src="/images/design-mode/after%202.PNG.png"
+                      src="/images/design-mode/after-2.png"
                       alt="After - Clean construction site"
                       fill
                       className="object-cover"
